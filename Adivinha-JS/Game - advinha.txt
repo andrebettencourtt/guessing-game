@@ -1,0 +1,13 @@
+Entendendo a lógica
+1. Gerar um número randômico entre 1 e 20.
+let secretNumber = 
+Math.trunc(Math.random() * 20) + 1;
+2. Quando o user digitar o num, vamos comparar com o num gerado pelo sistema.
+OBS: O user começa com 20 pontos
+-->Se o número estiver alto, mostra
+   ao user e tira 1 do score
+
+-->Caso acerte, a tela fica verde e os pontos do contador vao para o highscore.
+
+again --> reiniciar o jogo. O score volta para 20, a tela preta e highscore continua. Gera um novo número.
+o highScore é a pontuacao mais alta,
