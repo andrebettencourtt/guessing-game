@@ -1,6 +1,6 @@
 # Guessing Game 🎲
 
-Bem-vindo ao repositório Guessing Game! Este é um jogo simples de adivinhação desenvolvido em Python como parte de um projeto de aprendizado.
+Bem-vindo ao repositório Guessing Game! Este é um jogo simples de adivinhação desenvolvido em JavaScript como parte de um projeto de aprendizado.
 
 ## Visão Geral 🌟
 
